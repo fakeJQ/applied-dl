@@ -1,8 +1,8 @@
 # Applied Deep Learning @ Columbia
 
-A collection of materials for a new course being taught at Columbia, in Spring 2019. A work in progress, I'll do my best to keep it updated as we go.
+A collection of materials for a new course being taught in Spring 2019. Work in progress.
 
-## Syllabus
+## Syllabus and FAQ
 Links: \[ [PDF](https://github.com/random-forests/applied-dl/blob/master/syllabus.pdf) \]
 
 ## Just for fun

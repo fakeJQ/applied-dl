@@ -8,7 +8,7 @@ Links: \[ [PDF](https://github.com/random-forests/applied-dl/blob/master/syllabu
 ## Just for fun
 A neural network twisting and folding space as it classifies the moons dataset.
 
-<img src="https://storage.googleapis.com/applied-dl/moons.gif>
+<img src="https://storage.googleapis.com/applied-dl/moons.gif">
 
 Links: \[ [Jupyter Notebook](https://github.com/random-forests/applied-dl/blob/master/examples/twist_and_fold_moons.ipynb) \] [ [Colab](https://colab.research.google.com/github/random-forests/applied-dl/blob/master/examples/twist_and_fold_moons.ipynb) \]
 

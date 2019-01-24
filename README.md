@@ -15,4 +15,5 @@ Links: \[ [Jupyter Notebook](https://github.com/random-forests/applied-dl/blob/m
 ## Friendly team
 - [Josh Gordon](https://twitter.com/random_forests)
 - [Prerna Kashyap](https://github.com/prerna135)
-- TBD
+- [Terence Conlon](https://www.linkedin.com/in/terry-conlon/)
+- More coming soon

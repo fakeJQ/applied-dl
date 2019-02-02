@@ -12,8 +12,17 @@ A neural network twisting and folding space as it classifies the moons dataset.
 
 Links: \[ [Jupyter Notebook](https://github.com/random-forests/applied-dl/blob/master/examples/twist_and_fold_moons.ipynb) \] [ [Colab](https://colab.research.google.com/github/random-forests/applied-dl/blob/master/examples/twist_and_fold_moons.ipynb) \]
 
+## Datasets
+
+### Quick, Draw!
+Shows how to download the data, parse it, and save it in a convenient format.
+
+<img src="https://storage.googleapis.com/applied-dl/elephants.png">
+
+Links: \[ [Jupyter Notebook](https://github.com/random-forests/applied-dl/blob/master/examples/quick-draw-loader.ipynb) \] [ [Colab](https://colab.research.google.com/github/random-forests/applied-dl/blob/master/examples/quick-draw-loader.ipynb) \]
+
 ## Friendly team
 - [Josh Gordon](https://twitter.com/random_forests)
 - [Prerna Kashyap](https://github.com/prerna135)
-- [Terence Conlon](https://www.linkedin.com/in/terry-conlon/)
-- More coming soon
+- [Pratik Dubal](https://pratik08.github.io/)
+- [Seungmin Lee](https://github.com/briansmlee)

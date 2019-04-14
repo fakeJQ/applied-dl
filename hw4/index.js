@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Her good nature, too, is not so very slight a claim, comprehending, as it does, real, thorough sweetness of temper and manner, a very humble opinion of herself, and a great readiness to be pleased with other people.',
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',    
+  'example4':
+      'something to be filled!!!'
 };
 
 function status(statusText) {

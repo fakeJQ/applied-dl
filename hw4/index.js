@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Her good nature, too, is not so very slight a claim, comprehending, as it does, real, thorough sweetness of temper and manner, a very humble opinion of herself, and a great readiness to be pleased with other people.',
+      'She believed he had been drinking too much of Mr. Weston's good wine, and felt sure that he would want to be talking nonsense.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Then thou thy regal scepter shalt lay by, For regal scepter then no more shall need, God shall be all in all.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',    
+      'To thinke , my Lord , if you delight not in Man , what Lenton entertainment the Players shall receiue from you : wee coated them on the way , and hither are they comming to offer you Seruice',    
   'example4':
-      'something to be filled!!!'
+      'I take part , I see and hear the whole , The cries , curses , roar , the plaudits for well - aim ' d shots , The ambulanza slowly passing trailing its red drip , Workmen searching after damages , making indispensable repairs , The fall of grenades through the rent roof , the fan - shaped explosion , The whizz of limbs , heads , stone , wood , iron , high in the air .'
 };
 
 function status(statusText) {

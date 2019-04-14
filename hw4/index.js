@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'She believed he had been drinking too much of Mr. Westons good wine, and felt sure that he would want to be talking nonsense.',
+      'The real evils , indeed , of Emma s situation were the power of having rather too much her own way , and a disposition to think a little too well of herself ; these were the disadvantages which threatened alloy to her many enjoyments .',
   'example2':
-      'Then thou thy regal scepter shalt lay by, For regal scepter then no more shall need, God shall be all in all.',
+      'But his doom Reserved him to more wrath ; for now the thought Both of lost happiness and lasting pain Torments him : round he throws his baleful eyes , That witnessed huge affliction and dismay , Mixed with obdurate pride and steadfast hate .',
   'example3':
-      'To thinke , my Lord , if you delight not in Man , what Lenton entertainment the Players shall receiue from you : wee coated them on the way , and hither are they comming to offer you Seruice',    
+      'Long liue the King',    
   'example4':
-      'I take part , I see and hear the whole , The cries , curses , roar , the plaudits for well - aim d shots , The ambulanza slowly passing trailing its red drip , Workmen searching after damages , making indispensable repairs , The fall of grenades through the rent roof , the fan - shaped explosion , The whizz of limbs , heads , stone , wood , iron , high in the air .'
+      'As I ponderd in silence , Returning upon my poems , considering , lingering long , A Phantom arose before me with distrustful aspect , Terrible in beauty , age , and power , The genius of poets of old lands , As to me directing like flame its eyes , With finger pointing to many immortal songs , And menacing voice , What singest thou ?'
 };
 
 function status(statusText) {
